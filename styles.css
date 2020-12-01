@@ -6,7 +6,7 @@ a:hover {text-decoration: underline; color: #005a1c;}
 .topo {padding-bottom: 17px;}
 #menu {border: #0088cc solid 1px}
 body { background-color: aliceblue;}
-.conteudo {font-family: 'Open Sans', sans-serif;}
+.conteudo {font-family: 'Open Sans', sans-serif; padding-right: 50px; padding-left: 50px;}
 .titulo {font-family: 'Open Sans', sans-serif; color: #005a1c;}
 .conteudo h1 {color: #0088cc;}
 .conteudo p {color: #333;}
