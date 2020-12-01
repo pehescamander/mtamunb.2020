@@ -10,7 +10,7 @@ body { background-color: aliceblue; padding: 12px; max-width: 800px;}
 .titulo {font-family: 'Open Sans', sans-serif; color: #005a1c;}
 .conteudo h1 {color: #0088cc;}
 .conteudo p {color: #333;}
-.conteudo {text-align: justify; max-width: 800px;}
+.conteudo {text-align: justify; max-width: 800px; width:200%;}
 .conteudo h2 {color: #005a1c}
 .topo p {text-align: center;}
 .titulo-projetos {text-align: center;}
