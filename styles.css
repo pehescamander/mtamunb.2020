@@ -1,4 +1,4 @@
-.topo {text-align: center; margin-left: 340px; margin-right: 340px;}
+.topo {text-align: center; margin: auto; max-width: 340px;}
 .clear {clear: both;}
 #linguas {text-align: right;}
 a {color: #0088cc; text-decoration: none; font-family: sans-serif;}
